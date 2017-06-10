@@ -1,0 +1,49 @@
+#hr1{height:10px;background-color: transparent;float:top;}
+
+.header{ height:120px; background-color: transparent;}
+
+.d11{ height:50px; width: 40%; background-color: transparent; }
+
+.ncmeh{font-size: 18px;}
+
+#l1{float: left;}
+#r1{float: right;}
+
+#l2{float: left; }
+#r2{float: right; }
+
+.d22{height: 1150px; background-color: transparent; width:18%; text-align: center}
+
+#l3{float: left; }
+#r3{float: right; }
+
+.d33{height: 150px; background-color: transparent; width:18%; text-align: center}
+
+#logo{width: 18%; float:left}
+#logotext{width:82%; float: right; text-align: center; font-size: 25px; align-items: stretch; }
+
+#logoimg{width:100%; height:100%}
+
+#login{height: 50px; width: 20%; }
+
+body{
+    background-image: url("");
+}
+
+#d12{float: center; height: 120px;}
+
+#imgpropic{width: 100%;}
+
+div div a{text-decoration: none;}
+div table tr td a{text-decoration: none;}
+div div h3 a{text-decoration: none;}
+
+#navi{
+    font-size: 22px;
+}
+
+#ncmen{
+    font-size: 20px;
+}
+
+#i_content{width: 100%;}
